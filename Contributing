@@ -1,0 +1,15 @@
+ click Create new file.
+
+New file nameDecide whether to store your contributing guidelines in your repository's root, docs, or .github directory. Then, in the filename field, type the name and extension for the file. Contributing guidelines filenames are not case sensitive, and can have an extension such as .md or .txt.
+
+To make your contributing guidelines visible in the repository's root directory, type CONTRIBUTING.
+To make your contributing guidelines visible in the repository's docs directory, type docs/ to create the new directory, then CONTRIBUTING.
+In the new file, add contribution guidelines. These could include:
+Steps for creating good issues or pull requests.
+Links to external documentation, mailing lists, or a code of conduct.
+Community and behavioral expectations.
+Commit message for your changeAt the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message. For more information, see "Creating a commit with multiple co-authors."
+
+Commit branch optionsBelow the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is master, you should choose to create a new branch for your commit and then create a pull request.
+
+Commit new file buttonClick Propose new file.
